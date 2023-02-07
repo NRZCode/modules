@@ -1,0 +1,6 @@
+[submodule "src/module-2"]
+	path = src/module-2
+	url = git@codeberg.org:NRZCode/module-2.git
+[submodule "src/module-1"]
+	path = src/module-1
+	url = git@codeberg.org:NRZCode/module-1.git
